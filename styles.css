@@ -22,8 +22,9 @@ body {
 }
 
 .logo {
-    max-width: 500px;
+    max-width: 80%;
     margin-bottom: 20px;
+    height: auto;
 }
 
 h1 {
